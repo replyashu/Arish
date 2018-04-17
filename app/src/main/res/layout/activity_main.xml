@@ -28,7 +28,7 @@
 
         <ImageButton
             android:id="@+id/btnBrowse"
-            android:src="@android:drawable/btn_radio"
+            android:src="@android:drawable/btn_plus"
             android:layout_width="50dp"
             android:layout_marginRight="10dp"
             android:scaleType="fitCenter"
